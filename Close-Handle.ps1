@@ -1,4 +1,4 @@
-<#
+<# 
 There are maximum of I believe 2048 handles by default.  This was a temp fix until I figured out what was taking up the handles.
 This will force close any File Handle connected to Azure Storage
 #>
