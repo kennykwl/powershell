@@ -1,10 +1,32 @@
+
 <#PSScriptInfo
 
 .VERSION 1.1
 
+.GUID f7585bec-b42c-45ed-92d6-92ab28356e9b
+
 .AUTHOR Kawing
 
+.COMPANYNAME 
+
+.COPYRIGHT 
+
+.TAGS 
+
+.LICENSEURI 
+
 .PROJECTURI https://raw.githubusercontent.com/kennykwl/powershell/main/Close-Handle.ps1
+
+.ICONURI 
+
+.EXTERNALMODULEDEPENDENCIES 
+
+.REQUIREDSCRIPTS 
+
+.EXTERNALSCRIPTDEPENDENCIES 
+
+.RELEASENOTES
+
 
 #>
 
