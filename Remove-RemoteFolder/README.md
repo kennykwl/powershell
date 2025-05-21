@@ -39,5 +39,5 @@ Logs all actions and supports error handling.
 - Symlink removal is done via Get-ChildItem -Attributes ReparsePoint
 
 ## Author
-Kenny Li
-Version 1.2
+- Kenny Li
+- Version 1.2
